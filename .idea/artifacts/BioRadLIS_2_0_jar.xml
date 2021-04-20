@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BioRadLIS 2.0:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BioRadLIS_2_0_jar</output-path>
+    <root id="archive" name="BioRadLIS 2.0.jar">
+      <element id="module-output" name="BioRadLIS 2.0" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/sqlite-jdbc-3.32.3.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
